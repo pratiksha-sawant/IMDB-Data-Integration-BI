@@ -40,4 +40,5 @@ https://prod-useast-a.online.tableau.com/#/site/prateektuteja/workbooks/136275/v
 * Power BI
 * Tableau
 * Microsoft SQL Server
+* E/R Studio
 
