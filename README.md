@@ -1,5 +1,11 @@
 # IMDB-Data-Integration-BI
 -------------------------------------------------------------
+## Dimesnion Modeling
+
+* Identified the facts, dimensions and relation between them to build a dimensional model
+
+* Built the logical and physical model with E/R Studio
+
 ## Data Integration with Talend
 
 * Created jobs to transform the data from .csv and .tsv files and store it in staging tables
@@ -27,4 +33,11 @@ https://app.powerbi.com/groups/3bdbedef-2483-4c5a-af80-e7e0e86f97c0/reports/0a8a
 https://app.powerbi.com/groups/me/reports/04a62acf-81c9-4ace-82e2-58ac0772cd86?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
 
 https://prod-useast-a.online.tableau.com/#/site/prateektuteja/workbooks/136275/views
+
+
+## Softwares
+* Talend
+* Power BI
+* Tableau
+* Microsoft SQL Server
 
