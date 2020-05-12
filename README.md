@@ -2,7 +2,7 @@
 -------------------------------------------------------------
 ## Dimesnion Modeling
 
-* Identified the facts, dimensions and relation between them to build a dimensional model
+* Identified the facts, dimensions and relationships between them to build a dimensional model
 
 * Built the logical and physical model with E/R Studio
 
