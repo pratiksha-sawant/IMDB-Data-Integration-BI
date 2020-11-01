@@ -1,6 +1,6 @@
 # IMDB-Data-Integration-BI
 -------------------------------------------------------------
-## Dimesnion Modeling
+## Dimension Modeling
 
 * Identified the facts, dimensions and relationships between them to build a dimensional model
 
